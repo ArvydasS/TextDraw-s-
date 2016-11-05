@@ -1,2 +1,0 @@
-# TextDraw-s-
-TextDraw gallery
